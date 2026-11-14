@@ -64,7 +64,4 @@ nav:
 
   - Engineering Showcase:
       - System Overview: showcase/overview.md
-      - CAD Models: showcase/cad.md
       - Mechanism Design: showcase/mechanisms.md
-      - Prototype Gallery: showcase/prototypes.md
-      - Testing Videos: showcase/testing.md
